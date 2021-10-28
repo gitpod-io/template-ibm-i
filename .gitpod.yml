@@ -1,0 +1,9 @@
+#image:
+#  file: .gitpod.Dockerfile
+tasks:
+  - init: >
+      echo true
+vscode:
+  extensions:
+    - HalcyonTechLtd.code-for-ibmi
+    - barrettotte.ibmi-languages
